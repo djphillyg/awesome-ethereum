@@ -7,8 +7,9 @@ This is a curated resource for Ethreum, decentralization, and beyond
 * [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)
 * [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook)
 
+
 ### Fundamentals
-* Ethereum [White Paper](https://github.com/ethereum/wiki/wiki/White-Paper) [Yellow Paper](https://bravenewcoin.com/assets/Whitepapers/Ethereum-A-Secure-Decentralised-Generalised-Transaction-Ledger-Yellow-Paper.pdf)
+* Ethereum ([White Paper](https://github.com/ethereum/wiki/wiki/White-Paper)) ([Yellow Paper](https://bravenewcoin.com/assets/Whitepapers/Ethereum-A-Secure-Decentralised-Generalised-Transaction-Ledger-Yellow-Paper.pdf))
 * [How Does Ethereum Work Anyway?](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369)
 
 
@@ -35,6 +36,9 @@ This is a curated resource for Ethreum, decentralization, and beyond
 ### Frameworks
 * [AragonOS](https://github.com/aragon/aragonOS)
 * [Zeppelin Solidity](https://github.com/OpenZeppelin/zeppelin-solidity)
+* [0x JS](https://github.com/0xProject/0x.js)
+
+
 
 
 ### Smart Contract Security
@@ -43,15 +47,27 @@ This is a curated resource for Ethreum, decentralization, and beyond
 * [KEVM: A Complete Semantics of the Ethereum Virtual Machine](https://www.ideals.illinois.edu/handle/2142/97207)
 * [6 Solidity Vulnerabilities and how to avoid them](https://medium.com/loom-network/how-to-secure-your-smart-contracts-6-solidity-vulnerabilities-and-how-to-avoid-them-part-1-c33048d4d17d)
 * [How Formal Verification Can Ensure Flawless Smart Contracts](https://media.consensys.net/how-formal-verification-can-ensure-flawless-smart-contracts-cbda8ad99bd1)
+* [Smart Contract Best Practices](https://github.com/ConsenSys/smart-contract-best-practices)
 
-## Research
+
+## R&D
 * [Ethereum Research](https://ethresear.ch/)
+
+### State Channels
+* [State Channels - Jeff Coleman](http://www.jeffcoleman.ca/state-channels/)
+* [State Channel Wiki - Ledger Labs](https://github.com/ledgerlabs/state-channels/wiki)
+* [Spankchain POC State Channel](https://github.com/SpankChain/general-state-channels)
+
+
 
 ### EIPs
 * [EIP 777: ](https://github.com/ethereum/EIPs/issues/777)
 
 
 ## Media
+### Podcasts
+* [Epicenter](https://epicenter.tv/)
+* [Unconfirmed: Insights and Analysis From Top Minds in Crypto](https://itunes.apple.com/us/podcast/unconfirmed-insights-analysis-from-top-minds-in-crypto/id1347049808?mt=2)
 ### Newsletters
 * [Week In Ethereum](http://www.weekinethereum.com/)
 * [Proof of Work](https://proofofwork.substack.com/)
