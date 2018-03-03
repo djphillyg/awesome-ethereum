@@ -3,14 +3,22 @@ This is a curated resource for Ethreum, decentralization, and beyond
 
 ## Academic Resources
 
+### Organizations
+* [IC3, The Initiative For CryptoCurrencies & Contracts at Cornell](http://www.initc3.org/)
+* [Decentralized Systems Lab @ UIUC](http://decentralize.ece.illinois.edu/)
+* [BEN - Blockchain Education Network](https://www.blockchainedu.org/)
+
+
 ### Books
 * [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)
 * [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook)
 
 
+
 ### Fundamentals
 * Ethereum ([White Paper](https://github.com/ethereum/wiki/wiki/White-Paper)) ([Yellow Paper](https://bravenewcoin.com/assets/Whitepapers/Ethereum-A-Secure-Decentralised-Generalised-Transaction-Ledger-Yellow-Paper.pdf))
 * [How Does Ethereum Work Anyway?](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369)
+* [Unnumerated - Nick Szabo](http://unenumerated.blogspot.com/)
 
 
 
@@ -33,12 +41,6 @@ This is a curated resource for Ethreum, decentralization, and beyond
     * [Part 5: Smart Contract Creation Process](https://medium.com/@hayeah/diving-into-the-ethereum-vm-part-5-the-smart-contract-creation-process-cb7b6133b855)
     * [Part 6: How Solidity Events Are Implemented](https://blog.qtum.org/how-solidity-events-are-implemented-diving-into-the-ethereum-vm-part-6-30e07b3037b9)
 
-### Frameworks
-* [AragonOS](https://github.com/aragon/aragonOS)
-* [Zeppelin Solidity](https://github.com/OpenZeppelin/zeppelin-solidity)
-* [0x JS](https://github.com/0xProject/0x.js)
-
-
 
 
 ### Smart Contract Security
@@ -48,6 +50,15 @@ This is a curated resource for Ethreum, decentralization, and beyond
 * [6 Solidity Vulnerabilities and how to avoid them](https://medium.com/loom-network/how-to-secure-your-smart-contracts-6-solidity-vulnerabilities-and-how-to-avoid-them-part-1-c33048d4d17d)
 * [How Formal Verification Can Ensure Flawless Smart Contracts](https://media.consensys.net/how-formal-verification-can-ensure-flawless-smart-contracts-cbda8ad99bd1)
 * [Smart Contract Best Practices](https://github.com/ConsenSys/smart-contract-best-practices)
+* [Inheritance Abuse](https://pdaian.com/blog/solidity-anti-patterns-fun-with-inheritance-dag-abuse/)
+* [Ethereum isn't Turing Complete and It Doesn't Matter Anyway (video)](https://www.youtube.com/watch?v=cGFOKTm_8zk)
+
+### Libraries
+* [AragonOS](https://github.com/aragon/aragonOS)
+* [Zeppelin Solidity](https://github.com/OpenZeppelin/zeppelin-solidity)
+* [0x JS](https://github.com/0xProject/0x.js)
+* [Solidity Bytes Utils](https://github.com/GNSPS/solidity-bytes-utils)
+* [Mythril - Security Analysis Tool](https://github.com/ConsenSys/mythril)
 
 
 ## R&D
@@ -60,8 +71,13 @@ This is a curated resource for Ethreum, decentralization, and beyond
 
 
 
-### EIPs
+### EIPs/ERCs
 * [EIP 777: ](https://github.com/ethereum/EIPs/issues/777)
+* [ERC121: Proxy Standard](https://github.com/ethereum/EIPs/issues/121)
+
+### Experimental Languages
+* [Intro to LLL](https://media.consensys.net/an-introduction-to-lll-for-ethereum-smart-contract-development-e26e38ea6c23)
+* [Vyper](https://github.com/ethereum/vyper)
 
 
 ## Media
@@ -76,6 +92,7 @@ This is a curated resource for Ethreum, decentralization, and beyond
 * [Truffle](https://trufflesuite.com)
 * [Ethereum Gas Price Estimator](https://chrome.google.com/webstore/detail/ethereum-gas-price-extens/innfmlnnhfcebjcnfopadflecemoddnp)
 * [DappHub toolkit](https://dapp.tools/)
+
 
 
 
