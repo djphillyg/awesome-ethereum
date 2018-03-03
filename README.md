@@ -7,8 +7,10 @@ This is a curated resource for Ethreum, decentralization, and beyond
 * [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)
 * [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook)
 
-### Theory
-* 
+### Fundamentals
+* Ethereum [White Paper](https://github.com/ethereum/wiki/wiki/White-Paper) [Yellow Paper](https://bravenewcoin.com/assets/Whitepapers/Ethereum-A-Secure-Decentralised-Generalised-Transaction-Ledger-Yellow-Paper.pdf)
+* [How Does Ethereum Work Anyway?](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369)
+
 
 
 
@@ -30,6 +32,10 @@ This is a curated resource for Ethreum, decentralization, and beyond
     * [Part 5: Smart Contract Creation Process](https://medium.com/@hayeah/diving-into-the-ethereum-vm-part-5-the-smart-contract-creation-process-cb7b6133b855)
     * [Part 6: How Solidity Events Are Implemented](https://blog.qtum.org/how-solidity-events-are-implemented-diving-into-the-ethereum-vm-part-6-30e07b3037b9)
 
+### Frameworks
+* [AragonOS](https://github.com/aragon/aragonOS)
+* [Zeppelin Solidity](https://github.com/OpenZeppelin/zeppelin-solidity)
+
 
 ### Smart Contract Security
 * [Underhanded Solidity Contest](https://github.com/Arachnid/uscc)
@@ -40,6 +46,9 @@ This is a curated resource for Ethreum, decentralization, and beyond
 
 ## Research
 * [Ethereum Research](https://ethresear.ch/)
+
+### EIPs
+* [EIP 777: ](https://github.com/ethereum/EIPs/issues/777)
 
 
 ## Media
