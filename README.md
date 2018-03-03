@@ -9,9 +9,15 @@ This is a curated resource for Ethreum, decentralization, and beyond
 * [BEN - Blockchain Education Network](https://www.blockchainedu.org/)
 
 
+
 ### Books
 * [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)
 * [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook)
+
+### Thought Pieces
+* [DAO Democracy](http://merkle.com/papers/DAOdemocracyDraft.pdf)
+* [Blockchain Governance: Programming Our Future](https://medium.com/@FEhrsam/blockchain-governance-programming-our-future-c3bfe30f2d74)
+
 
 
 
@@ -23,7 +29,17 @@ This is a curated resource for Ethreum, decentralization, and beyond
 
 
 
+
 ## Programming
+
+### Official
+* Docs
+    * [Ethereum](https://github.com/ethereum/wiki)
+    * [Geth](https://github.com/ethereum/go-ethereum/wiki/geth)
+    * [Parity](https://github.com/paritytech/parity/wiki)
+    * [Solidity](https://solidity.readthedocs.io/en/develop/)
+* [Ethereum Foundation](https://ethereum.org/)
+* [Ethereum Enterprise Alliance](https://entethalliance.org/)
 
 ### Getting Started
 
@@ -31,6 +47,8 @@ This is a curated resource for Ethreum, decentralization, and beyond
     * [Part 1: Developing an Ethereum Document Certification Contract](https://medium.com/cryptronics/ethereum-development-guide-part-1-ad0c77c3683)
     * [Part 2: Interacting with smart contracts](https://medium.com/cryptronics/ethereum-development-guide-part-1-ad0c77c3683f) 
     * [Part 3: Developing a web inteface for smart contracts](https://medium.com/cryptronics/ethereum-development-guide-part-3-c5a402bf8815)
+* [Solidity Baby Steps](https://github.com/fivedogit/solidity-baby-steps)
+
 
 
 ### In-Depth
@@ -40,6 +58,7 @@ This is a curated resource for Ethreum, decentralization, and beyond
     * [Part 4: Deciphering a Method Call](https://medium.com/@hayeah/how-to-decipher-a-smart-contract-method-call-8ee980311603)
     * [Part 5: Smart Contract Creation Process](https://medium.com/@hayeah/diving-into-the-ethereum-vm-part-5-the-smart-contract-creation-process-cb7b6133b855)
     * [Part 6: How Solidity Events Are Implemented](https://blog.qtum.org/how-solidity-events-are-implemented-diving-into-the-ethereum-vm-part-6-30e07b3037b9)
+* [How To Read Ethereum Storage](https://medium.com/aigang-network/how-to-read-ethereum-contract-storage-44252c8af925)
 
 
 
@@ -52,17 +71,21 @@ This is a curated resource for Ethreum, decentralization, and beyond
 * [Smart Contract Best Practices](https://github.com/ConsenSys/smart-contract-best-practices)
 * [Inheritance Abuse](https://pdaian.com/blog/solidity-anti-patterns-fun-with-inheritance-dag-abuse/)
 * [Ethereum isn't Turing Complete and It Doesn't Matter Anyway (video)](https://www.youtube.com/watch?v=cGFOKTm_8zk)
+* [Thinking About Smart Contract Security](https://blog.ethereum.org/2016/06/19/thinking-smart-contract-security/)
 
 ### Libraries
 * [AragonOS](https://github.com/aragon/aragonOS)
 * [Zeppelin Solidity](https://github.com/OpenZeppelin/zeppelin-solidity)
 * [0x JS](https://github.com/0xProject/0x.js)
 * [Solidity Bytes Utils](https://github.com/GNSPS/solidity-bytes-utils)
-* [Mythril - Security Analysis Tool](https://github.com/ConsenSys/mythril)
+* [Modular Libraries](https://github.com/modular-network/ethereum-libraries)
+* [Simple Token Sale](https://github.com/skmgoldin/simple-token-sale)
 
 
 ## R&D
 * [Ethereum Research](https://ethresear.ch/)
+* [eWASM - Ethereum Falvoured WebAssembly](https://github.com/ewasm)
+
 
 ### State Channels
 * [State Channels - Jeff Coleman](http://www.jeffcoleman.ca/state-channels/)
@@ -78,6 +101,8 @@ This is a curated resource for Ethreum, decentralization, and beyond
 ### Experimental Languages
 * [Intro to LLL](https://media.consensys.net/an-introduction-to-lll-for-ethereum-smart-contract-development-e26e38ea6c23)
 * [Vyper](https://github.com/ethereum/vyper)
+* [Pyramid Scheme](https://github.com/MichaelBurge/pyramid-scheme)
+* [Bamboo](https://github.com/pirapira/bamboo)
 
 
 ## Media
@@ -87,11 +112,15 @@ This is a curated resource for Ethreum, decentralization, and beyond
 ### Newsletters
 * [Week In Ethereum](http://www.weekinethereum.com/)
 * [Proof of Work](https://proofofwork.substack.com/)
+* [ConsenSys Media](http://consensys.us11.list-manage.com/subscribe?u=947c9b18fc27e0b00fc2ad055&id=257df01285)
 ## Tools
 * [Metamask -- run Ethereum dApps in browser](https://metamask.io/)
 * [Truffle](https://trufflesuite.com)
 * [Ethereum Gas Price Estimator](https://chrome.google.com/webstore/detail/ethereum-gas-price-extens/innfmlnnhfcebjcnfopadflecemoddnp)
 * [DappHub toolkit](https://dapp.tools/)
+* [Remix - Online Solidity Compiler](https://ethereum.github.io/browser-solidity/)
+* [Mythril - Security Analysis Tool](https://github.com/ConsenSys/mythril)
+* [MAIAN - Finding The Greedy, Prodigal, and Suicidal Contracts at Scale](https://github.com/ConsenSys/mythril)
 
 
 
