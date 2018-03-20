@@ -1,4 +1,5 @@
 # awesome-ethereum
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 This is a curated resource for Ethreum, decentralization, and beyond
 
 ## Academic Resources
